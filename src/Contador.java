@@ -28,8 +28,7 @@ public class Contador {
         for(int i = 1; contagem >= i; i++ ) {
             System.out.println("Imprimindo do número: " + i);
             
-        }
-            
+        }           
         
 	}
 }
